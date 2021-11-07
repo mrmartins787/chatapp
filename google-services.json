@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680464829023",
+    "project_id": "vchat-9182b",
+    "storage_bucket": "vchat-9182b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680464829023:android:f417e8dffe4841442229ea",
+        "android_client_info": {
+          "package_name": "com.chat.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680464829023-houdfc62bicb9b4lfu8ti9vvt7a4ln1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.chatapp",
+            "certificate_hash": "9abac7b56003424ee419001057b5eb2d6915e1f7"
+          }
+        },
+        {
+          "client_id": "680464829023-mmlbghkhs54oehq02j8v7r3931lu31v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgcyc-FMLfI2-jsUFkdY5VZAdWQ25H6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680464829023-mmlbghkhs54oehq02j8v7r3931lu31v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
